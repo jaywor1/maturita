@@ -6,4 +6,4 @@ Testy na CERMATu
 
 ## Základní info
 1. Napsat didaktický test
-2. Mít z testu víc než 33% (17b)
+2. Mít z didaktického testu víc než 33% (17b)
