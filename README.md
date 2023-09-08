@@ -1,2 +1,2 @@
-# maturita
+# Maturita
 Info ohledně maturity
